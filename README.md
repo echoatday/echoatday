@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @echoatday
 - 👀 I’m interested in things
-- 🌱 I’m currently learning development with C# and Ruby
+- 🌱 I’m currently learning development with React Native
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me not yet (;
 
