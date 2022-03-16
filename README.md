@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @echoatday
-- 👀 I’m interested in things
-- 🌱 I’m currently learning development with React Native
+- 👀 I’m interested in solving weird problems
+- 🌱 I’m currently looking for work
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me not yet (;
 
 <!---
 echoatday/echoatday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
